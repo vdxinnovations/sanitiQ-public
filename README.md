@@ -1,5 +1,3 @@
-# sanitiQ-public
-
 # SanitiQ
 
 
