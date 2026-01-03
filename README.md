@@ -1,4 +1,4 @@
-# SanitiQ
+# SanitiQ™
 
 
 SanitiQ™ is a deterministic document cleaning and PII removal tool
